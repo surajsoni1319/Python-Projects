@@ -31,9 +31,7 @@ To use any project:
    git clone https://github.com/your-username/python-projects.git
 Navigate to the project directory:
 
-bash
-Copy
-Edit
+
 cd python-projects/image-compressor
 Follow the instructions in each project's README.md or .ipynb notebook.
 
@@ -41,36 +39,19 @@ Requirements
 Most projects require only standard Python libraries. Some may use:
 
 Pillow
-
-pandas
-
-tkinter
-
-openpyxl
-
+panda
+tkinte
+openpyx
 matplotlib
 
 Install dependencies with:
 
-bash
-Copy
-Edit
 pip install -r requirements.txt
+
 License
 This project is open source and available under the MIT License.
 
 Contribution
 Feel free to fork this repo, submit issues, or contribute improvements via pull requests. This collection is intended to grow over time with practical, real-world Python tools.
 
-yaml
-Copy
-Edit
 
----
-
-Would you like me to:
-- Generate a `README.md` file?
-- Create a `requirements.txt` based on your current project?
-- Help you push it to GitHub step-by-step?
-
-Let me know!
